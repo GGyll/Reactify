@@ -5,7 +5,7 @@ Written with Django rest-framework as a backend and React (Router V6) on the fro
 Music data is pulled using JSON by the backend through the Spotify API.
 
 
-![Alt Text](https://github.com/GGyll/demonstration.gif)
+![Alt Text](https://github.com/GGyll/Reactify/blob/main/demonstration.gif)
 
 ## To run
 
