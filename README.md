@@ -2,7 +2,7 @@
 Create rooms for listening to music together, You can create a room and decide if other users have access to play/pause and how many votes are needed to skip the current song.
 
 Written with Django rest-framework as a backend and React (Router V6) on the frontend using mainly functional components.
-Music data is pulled using JSON by the backend through the Spotify API.
+Music data is pulled by the backend through the Spotify API.
 
 
 ![Alt Text](https://github.com/GGyll/Reactify/blob/main/demonstration.gif)
