@@ -17,7 +17,7 @@ CLIENT_SECRET = ''
 `
 
 In the project directory
-`py manage.py runserver`
+`python manage.py runserver`
 To run the Django server
 
 Open a new terminal to frontend/ and run
